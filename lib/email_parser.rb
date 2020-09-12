@@ -1,5 +1,5 @@
 class EmailAddressParser
-  attr_accessible :emailaddress
+  attr_accessible :name :csv
   
   def new
     
